@@ -58,7 +58,7 @@ export default {
             title: 'Documentation',
             list: [
                 {
-                    text: 'What is Wuhan2020 ?',
+                    text: 'What is Wuhan2020?',
                     link: '/en-us/docs/overview/what-is-wuhan2020.html',
                 },
                 {
@@ -182,7 +182,7 @@ export default {
                 },
             ],
         },
-        copyright: 'Copyright © 2020 Wuahan2020',
+        copyright: 'Copyright © 2020 Wuhan2020',
         sponsors: {
           title: 'Sponsors',
           list: [
@@ -276,7 +276,7 @@ export default {
                 },
             ],
         },
-        copyright: 'Copyright © 2020 Wuahan2020',
+        copyright: 'Copyright © 2020 Wuhan2020',
         sponsors: {
           title: 'Sponsors',
           list: [
@@ -462,7 +462,7 @@ export default {
                 },
             ],
         },
-        copyright: 'Copyright © 2020 Wuahan2020',
+        copyright: 'Copyright © 2020 Wuhan2020',
         sponsors: {
           title: 'Sponsors',
           list: [
